@@ -1,18 +1,26 @@
-#simple webpage
-A basic webpage demonstarting HTML,CSS JAVASCRIPT
-##Features
--Clickable button changes paragraph text
--Centered layout with custom styling
--Responsive button with hover effect
+ Simple Webpage
 
-##Structure
--'index.html':page structure and content
--'style.css':Styling and layout
--'server.js':Javascript functionality
+A basic webpage demonstrating HTML, CSS, and JavaScript.
 
-#usage
-Open 'index.html' in a browser
-click the 'click me 'button
+🚀 Features
+- Clickable button that changes paragraph text
+- Centered layout with custom styling
+- Responsive button with hover effect
 
-##Example
-click the button to change the text:'click teh button to change this text'
+🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+📁 Project Structure
+- index.html – Page structure and content
+- style.css – Styling and layout
+- server.js – JavaScript functionality
+
+▶️ Usage
+1. Open `index.html` in a browser  
+2. Click the "Click Me"button  
+
+💡 Example
+Click the button to change the text:
+> "Click the button to change this text"
